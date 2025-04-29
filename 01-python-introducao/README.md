@@ -1,9 +1,5 @@
 # 🐍 Python: Resumo Completo
 
-<div align="center">
-  <img src="https://www.alura.com.br/artigos/python" alt="Python" width="400">
-</div>
-
 ## 🌟 **Introdução**
 Python é uma linguagem de programação **versátil** e **de alto nível**, criada por Guido van Rossum em 1991. É amplamente usada em:
 ```python
