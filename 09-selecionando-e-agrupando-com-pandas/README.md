@@ -72,4 +72,4 @@ Este curso foca em técnicas de seleção e agrupamento de dados utilizando a bi
 
 ## Conclusão
 
-Ao final deste curso, você estará apto a remodelar DataFrames, transformar colunas e realizar agrupamentos de dados eficientes, permitindo análises exploratórias detalhadas e a extração de insights valiosos.
+Ao final deste curso, aprendemos a remodelar DataFrames, transformar colunas e realizar agrupamentos de dados eficientes, permitindo análises exploratórias detalhadas e a extração de insights valiosos.
